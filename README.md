@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on studying neuroscience and cognitive science.
-- 📫 How to reach me ...
+- 📫 How to reach me : niu_matt@foxmail.com
 
 <!---
 niumatt/niumatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
